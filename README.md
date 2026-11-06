@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project explores multimodal learning by combining **Natural Language Processing (NLP)** and **Computer Vision** using the Flickr8k dataset.
+This project explores **Data Analysis** and multimodal learning by combining **Natural Language Processing (NLP)** and **Computer Vision** using the Flickr8k dataset.
 
 The dataset contains **8,091 images and 40,455 human-written captions**, with five captions per image.
 
