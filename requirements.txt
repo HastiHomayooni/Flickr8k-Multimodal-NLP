@@ -1,0 +1,16 @@
+# Python 3.12 recommended for compatibility with the original notebook environment.
+# Install PyTorch and torchvision using the appropriate commands for your platform
+# from https://pytorch.org/get-started/locally/ if CUDA support is required.
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+scikit-learn
+joblib
+torch
+torchvision
+nltk
+rouge-score
+notebook
+ipykernel
